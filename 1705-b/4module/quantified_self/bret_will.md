@@ -1,4 +1,4 @@
-# Will & Bret
+# Bret & Will
 (although this was submitted after 9am we didn't do any coding after 9am, we didn't realize we had to submit this, sorry).  
 
 Frontend Production: https://bretfunk.github.io/quantified-self/
